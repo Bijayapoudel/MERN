@@ -1,0 +1,21 @@
+git init
+git remote  add origin  {path link}
+git remove -v
+
+
+u--->Untracked
+
+git status 
+git add  .      //Adds all the Untracked files....
+
+git add {Individual file}      //add the individual file....
+
+
+git commit -m "{Message}"
+
+git commit -m "{Message}" -m "<Long Description"
+
+
+
+
+
